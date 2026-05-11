@@ -1,0 +1,157 @@
+# Part 分类练习 第 10 组
+范围：Recent-2025-10-25 到 Recent-2025-09-13
+每组约 5 套题，适合一次生成一批音频或按 Part 做专项训练。
+
+- 本素材包不复制剑桥真题、近期机经原题、听力原文或答案全文。
+- 用途：把正版材料/公开考题索引整理成可生成语音的练习 TXT。
+- 如果你手里有正版题目或自己的错题，可以把原文/答案粘到对应文件的【正版材料填入区】。
+- 语音生成建议：每个 Part 单独生成音频；Part 1 慢速清晰，Part 3/4 使用自然语速。
+
+
+# Part 1 专项
+
+## 近期考题 2025-10-25
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Swimming Courses
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-10-18
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Resident Feedback on Bus Route Modifications
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-10-11
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Ship Hotel Reservation
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-09-27
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Customer Order Form
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-09-13
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Concert Ticket Booking
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 2 专项
+
+## 近期考题 2025-10-25
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Trees
+题型：Multiple-choice, Matching
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-10-18
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Southwell Camp Map
+题型：Multiple-choice, Matching
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-10-11
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：National Zoo
+题型：Multiple-choice, Matching
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-09-27
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Youth Football Championship Map
+题型：Multiple-choice, Matching
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-09-13
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Casino Map
+题型：Multiple-choice, Matching
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 3 专项
+
+## 近期考题 2025-10-25
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Work placement
+题型：Multiple-choice, Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-10-18
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Ancient Painting Authentication
+题型：Multiple-choice, Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-10-11
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Not Sure
+题型：Not Sure
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-09-27
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Recycling Project
+题型：Multiple-choice, Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-09-13
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Discussing Coral Reefs
+题型：Multiple-choice
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 4 专项
+
+## 近期考题 2025-10-25
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Nazca Lines
+题型：Fill in the blanks
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-10-18
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Dolphin Intelligence
+题型：Fill in the blanks
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-10-11
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Recalling
+题型：Fill in the blanks
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-09-27
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Heat Pumps in the UK
+题型：Fill in the blanks
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-09-13
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Peruvian Tern
+题型：Fill in the blanks
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。

@@ -1,0 +1,113 @@
+# 剑桥 IELTS 14 Test 4
+
+
+
+- 本素材包不复制剑桥真题、近期机经原题、听力原文或答案全文。
+
+- 用途：把正版材料/公开考题索引整理成可生成语音的练习 TXT。
+
+- 如果你手里有正版题目或自己的错题，可以把原文/答案粘到对应文件的【正版材料填入区】。
+
+- 语音生成建议：每个 Part 单独生成音频；Part 1 慢速清晰，Part 3/4 使用自然语速。
+
+
+
+本文件结构：Part 1-4 每个部分都可单独生成语音。
+
+
+
+## Part 1
+来源：Cambridge IELTS 14 正版书/音频 Test 4
+场景/主题：日常双人对话：报名、预订、咨询、表格信息
+题型：Form / Note completion
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+
+【正版材料填入区】
+题目摘要：
+答案/关键词：
+错题点：
+
+【TTS 语音练习脚本】
+Now listen to Part 1. The topic is 日常双人对话：报名、预订、咨询、表格信息.
+Before listening, predict the answer type for each blank or option. Pay attention to 姓名、电话、日期、地址、价格、拼写、单复数.
+Question 1. Write the key word you hear. Pause for three seconds.
+Question 2. Listen for the corrected information after the speaker changes their mind.
+Question 3. Notice the paraphrase, not only the exact word in the question.
+Question 4. Check spelling, singular or plural, and word limit.
+End of this part. Replay once, then shadow the answer sentence aloud.
+
+【生成音频建议】
+文件名建议：Cambridge-14-Test-4_Part1.mp3
+朗读设置：自然英语；Part 1 可稍慢，Part 3/4 接近考试速度。
+
+## Part 2
+来源：Cambridge IELTS 14 正版书/音频 Test 4
+场景/主题：日常独白：场馆介绍、活动安排、地图/路线
+题型：Multiple choice / Matching / Map
+训练重点：方位词、地点功能、流程顺序、干扰信息
+
+【正版材料填入区】
+题目摘要：
+答案/关键词：
+错题点：
+
+【TTS 语音练习脚本】
+Now listen to Part 2. The topic is 日常独白：场馆介绍、活动安排、地图/路线.
+Before listening, predict the answer type for each blank or option. Pay attention to 方位词、地点功能、流程顺序、干扰信息.
+Question 1. Write the key word you hear. Pause for three seconds.
+Question 2. Listen for the corrected information after the speaker changes their mind.
+Question 3. Notice the paraphrase, not only the exact word in the question.
+Question 4. Check spelling, singular or plural, and word limit.
+End of this part. Replay once, then shadow the answer sentence aloud.
+
+【生成音频建议】
+文件名建议：Cambridge-14-Test-4_Part2.mp3
+朗读设置：自然英语；Part 1 可稍慢，Part 3/4 接近考试速度。
+
+## Part 3
+来源：Cambridge IELTS 14 正版书/音频 Test 4
+场景/主题：学术多人讨论：课程、作业、研究项目、导师反馈
+题型：Multiple choice / Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+
+【正版材料填入区】
+题目摘要：
+答案/关键词：
+错题点：
+
+【TTS 语音练习脚本】
+Now listen to Part 3. The topic is 学术多人讨论：课程、作业、研究项目、导师反馈.
+Before listening, predict the answer type for each blank or option. Pay attention to 观点归属、态度变化、同义替换、选项干扰.
+Question 1. Write the key word you hear. Pause for three seconds.
+Question 2. Listen for the corrected information after the speaker changes their mind.
+Question 3. Notice the paraphrase, not only the exact word in the question.
+Question 4. Check spelling, singular or plural, and word limit.
+End of this part. Replay once, then shadow the answer sentence aloud.
+
+【生成音频建议】
+文件名建议：Cambridge-14-Test-4_Part3.mp3
+朗读设置：自然英语；Part 1 可稍慢，Part 3/4 接近考试速度。
+
+## Part 4
+来源：Cambridge IELTS 14 正版书/音频 Test 4
+场景/主题：学术讲座独白：自然科学、人文社科、技术与环境
+题型：Note / Summary completion
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+
+【正版材料填入区】
+题目摘要：
+答案/关键词：
+错题点：
+
+【TTS 语音练习脚本】
+Now listen to Part 4. The topic is 学术讲座独白：自然科学、人文社科、技术与环境.
+Before listening, predict the answer type for each blank or option. Pay attention to 名词短语、因果关系、定义、分类、拼写准确度.
+Question 1. Write the key word you hear. Pause for three seconds.
+Question 2. Listen for the corrected information after the speaker changes their mind.
+Question 3. Notice the paraphrase, not only the exact word in the question.
+Question 4. Check spelling, singular or plural, and word limit.
+End of this part. Replay once, then shadow the answer sentence aloud.
+
+【生成音频建议】
+文件名建议：Cambridge-14-Test-4_Part4.mp3
+朗读设置：自然英语；Part 1 可稍慢，Part 3/4 接近考试速度。

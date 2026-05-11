@@ -1,0 +1,73 @@
+# Part 分类练习 第 11 组
+范围：Recent-2025-08-30 到 Recent-2025-08-23
+每组约 5 套题，适合一次生成一批音频或按 Part 做专项训练。
+
+- 本素材包不复制剑桥真题、近期机经原题、听力原文或答案全文。
+- 用途：把正版材料/公开考题索引整理成可生成语音的练习 TXT。
+- 如果你手里有正版题目或自己的错题，可以把原文/答案粘到对应文件的【正版材料填入区】。
+- 语音生成建议：每个 Part 单独生成音频；Part 1 慢速清晰，Part 3/4 使用自然语速。
+
+
+# Part 1 专项
+
+## 近期考题 2025-08-30
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Rental Consultation
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-08-23
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Marketing Conference
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 2 专项
+
+## 近期考题 2025-08-30
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Children's Activities
+题型：Multiple-choice, Matching
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-08-23
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Island Trip
+题型：Multiple-choice, Matching
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 3 专项
+
+## 近期考题 2025-08-30
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Student Bicycle Center
+题型：Multiple-choice
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-08-23
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Farmers and Agriculture
+题型：Multiple-choice
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 4 专项
+
+## 近期考题 2025-08-30
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Charcoal
+题型：Fill in the blanks
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2025-08-23
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Declining Computing Ability
+题型：Fill in the blanks
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。

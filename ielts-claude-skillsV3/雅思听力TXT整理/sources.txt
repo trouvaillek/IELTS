@@ -1,0 +1,7 @@
+Sources used:
+1. IELTS official Listening format: https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-listening
+2. British Council test format: https://takeielts.britishcouncil.org/take-ielts/test-format
+3. Recent listening topic index: https://www.examword.com/ielts-practice/listening-exam-question
+
+Copyright note:
+This folder contains study organization, metadata, and original practice prompts only. It intentionally does not reproduce full Cambridge IELTS questions, transcripts, answer keys, or unofficial leaked exam content.

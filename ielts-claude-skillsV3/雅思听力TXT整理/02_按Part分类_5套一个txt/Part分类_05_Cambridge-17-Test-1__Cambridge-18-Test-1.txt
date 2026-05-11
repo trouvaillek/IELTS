@@ -1,0 +1,157 @@
+# Part 分类练习 第 05 组
+范围：Cambridge-17-Test-1 到 Cambridge-18-Test-1
+每组约 5 套题，适合一次生成一批音频或按 Part 做专项训练。
+
+- 本素材包不复制剑桥真题、近期机经原题、听力原文或答案全文。
+- 用途：把正版材料/公开考题索引整理成可生成语音的练习 TXT。
+- 如果你手里有正版题目或自己的错题，可以把原文/答案粘到对应文件的【正版材料填入区】。
+- 语音生成建议：每个 Part 单独生成音频；Part 1 慢速清晰，Part 3/4 使用自然语速。
+
+
+# Part 1 专项
+
+## 剑桥 IELTS 17 Test 1
+来源：Cambridge IELTS 17 正版书/音频 Test 1
+场景/主题：日常双人对话：报名、预订、咨询、表格信息
+题型：Form / Note completion
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 2
+来源：Cambridge IELTS 17 正版书/音频 Test 2
+场景/主题：日常双人对话：报名、预订、咨询、表格信息
+题型：Form / Note completion
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 3
+来源：Cambridge IELTS 17 正版书/音频 Test 3
+场景/主题：日常双人对话：报名、预订、咨询、表格信息
+题型：Form / Note completion
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 4
+来源：Cambridge IELTS 17 正版书/音频 Test 4
+场景/主题：日常双人对话：报名、预订、咨询、表格信息
+题型：Form / Note completion
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 18 Test 1
+来源：Cambridge IELTS 18 正版书/音频 Test 1
+场景/主题：日常双人对话：报名、预订、咨询、表格信息
+题型：Form / Note completion
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 2 专项
+
+## 剑桥 IELTS 17 Test 1
+来源：Cambridge IELTS 17 正版书/音频 Test 1
+场景/主题：日常独白：场馆介绍、活动安排、地图/路线
+题型：Multiple choice / Matching / Map
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 2
+来源：Cambridge IELTS 17 正版书/音频 Test 2
+场景/主题：日常独白：场馆介绍、活动安排、地图/路线
+题型：Multiple choice / Matching / Map
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 3
+来源：Cambridge IELTS 17 正版书/音频 Test 3
+场景/主题：日常独白：场馆介绍、活动安排、地图/路线
+题型：Multiple choice / Matching / Map
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 4
+来源：Cambridge IELTS 17 正版书/音频 Test 4
+场景/主题：日常独白：场馆介绍、活动安排、地图/路线
+题型：Multiple choice / Matching / Map
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 18 Test 1
+来源：Cambridge IELTS 18 正版书/音频 Test 1
+场景/主题：日常独白：场馆介绍、活动安排、地图/路线
+题型：Multiple choice / Matching / Map
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 3 专项
+
+## 剑桥 IELTS 17 Test 1
+来源：Cambridge IELTS 17 正版书/音频 Test 1
+场景/主题：学术多人讨论：课程、作业、研究项目、导师反馈
+题型：Multiple choice / Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 2
+来源：Cambridge IELTS 17 正版书/音频 Test 2
+场景/主题：学术多人讨论：课程、作业、研究项目、导师反馈
+题型：Multiple choice / Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 3
+来源：Cambridge IELTS 17 正版书/音频 Test 3
+场景/主题：学术多人讨论：课程、作业、研究项目、导师反馈
+题型：Multiple choice / Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 4
+来源：Cambridge IELTS 17 正版书/音频 Test 4
+场景/主题：学术多人讨论：课程、作业、研究项目、导师反馈
+题型：Multiple choice / Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 18 Test 1
+来源：Cambridge IELTS 18 正版书/音频 Test 1
+场景/主题：学术多人讨论：课程、作业、研究项目、导师反馈
+题型：Multiple choice / Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 4 专项
+
+## 剑桥 IELTS 17 Test 1
+来源：Cambridge IELTS 17 正版书/音频 Test 1
+场景/主题：学术讲座独白：自然科学、人文社科、技术与环境
+题型：Note / Summary completion
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 2
+来源：Cambridge IELTS 17 正版书/音频 Test 2
+场景/主题：学术讲座独白：自然科学、人文社科、技术与环境
+题型：Note / Summary completion
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 3
+来源：Cambridge IELTS 17 正版书/音频 Test 3
+场景/主题：学术讲座独白：自然科学、人文社科、技术与环境
+题型：Note / Summary completion
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 17 Test 4
+来源：Cambridge IELTS 17 正版书/音频 Test 4
+场景/主题：学术讲座独白：自然科学、人文社科、技术与环境
+题型：Note / Summary completion
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 18 Test 1
+来源：Cambridge IELTS 18 正版书/音频 Test 1
+场景/主题：学术讲座独白：自然科学、人文社科、技术与环境
+题型：Note / Summary completion
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。

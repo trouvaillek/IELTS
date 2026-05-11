@@ -1,0 +1,157 @@
+# Part 分类练习 第 07 组
+范围：Cambridge-19-Test-3 到 Recent-2026-03-21
+每组约 5 套题，适合一次生成一批音频或按 Part 做专项训练。
+
+- 本素材包不复制剑桥真题、近期机经原题、听力原文或答案全文。
+- 用途：把正版材料/公开考题索引整理成可生成语音的练习 TXT。
+- 如果你手里有正版题目或自己的错题，可以把原文/答案粘到对应文件的【正版材料填入区】。
+- 语音生成建议：每个 Part 单独生成音频；Part 1 慢速清晰，Part 3/4 使用自然语速。
+
+
+# Part 1 专项
+
+## 剑桥 IELTS 19 Test 3
+来源：Cambridge IELTS 19 正版书/音频 Test 3
+场景/主题：日常双人对话：报名、预订、咨询、表格信息
+题型：Form / Note completion
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 19 Test 4
+来源：Cambridge IELTS 19 正版书/音频 Test 4
+场景/主题：日常双人对话：报名、预订、咨询、表格信息
+题型：Form / Note completion
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-04-11
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Magazine
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-03-28
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Insurance Form
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-03-21
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Activities in Queensland
+题型：Fill in the blank
+训练重点：姓名、电话、日期、地址、价格、拼写、单复数
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 2 专项
+
+## 剑桥 IELTS 19 Test 3
+来源：Cambridge IELTS 19 正版书/音频 Test 3
+场景/主题：日常独白：场馆介绍、活动安排、地图/路线
+题型：Multiple choice / Matching / Map
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 19 Test 4
+来源：Cambridge IELTS 19 正版书/音频 Test 4
+场景/主题：日常独白：场馆介绍、活动安排、地图/路线
+题型：Multiple choice / Matching / Map
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-04-11
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Project Introduction / Map
+题型：Multiple-choice
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-03-28
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Team Activity
+题型：Multiple-choice
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-03-21
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Map
+题型：Multiple-choice, Matching
+训练重点：方位词、地点功能、流程顺序、干扰信息
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 3 专项
+
+## 剑桥 IELTS 19 Test 3
+来源：Cambridge IELTS 19 正版书/音频 Test 3
+场景/主题：学术多人讨论：课程、作业、研究项目、导师反馈
+题型：Multiple choice / Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 19 Test 4
+来源：Cambridge IELTS 19 正版书/音频 Test 4
+场景/主题：学术多人讨论：课程、作业、研究项目、导师反馈
+题型：Multiple choice / Matching
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-04-11
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Academic Discussion
+题型：Multiple-Choice
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-03-28
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Battery-powered motorbikes
+题型：Multiple Choice
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-03-21
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Action Research & New Teaching Methods
+题型：Fill in the blank
+训练重点：观点归属、态度变化、同义替换、选项干扰
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+# Part 4 专项
+
+## 剑桥 IELTS 19 Test 3
+来源：Cambridge IELTS 19 正版书/音频 Test 3
+场景/主题：学术讲座独白：自然科学、人文社科、技术与环境
+题型：Note / Summary completion
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 剑桥 IELTS 19 Test 4
+来源：Cambridge IELTS 19 正版书/音频 Test 4
+场景/主题：学术讲座独白：自然科学、人文社科、技术与环境
+题型：Note / Summary completion
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-04-11
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Photic Sneezing
+题型：Fill in the blank
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-03-28
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Aegean Wall Lizard
+题型：Fill in the blank
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
+
+## 近期考题 2026-03-21
+来源：ExamWord IELTS 2026 Listening Questions recent-question index
+场景/主题：Effect of the Digital World on Young People
+题型：Multiple Choice, Matching
+训练重点：名词短语、因果关系、定义、分类、拼写准确度
+TTS 提示：先读题型和场景，再读 4 条练习指令；最后留 5 秒检查拼写。
