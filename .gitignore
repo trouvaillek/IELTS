@@ -17,3 +17,9 @@ ielts-claude-skillsV3/**/.env.*
 ielts-claude-skillsV3/**/.DS_Store
 ielts-claude-skillsV3/**/*.pyc
 ielts-claude-skillsV3/**/__pycache__/
+
+# IELTS Markdown language bank
+!写作/
+写作/*
+!写作/language-bank/
+!写作/language-bank/**
