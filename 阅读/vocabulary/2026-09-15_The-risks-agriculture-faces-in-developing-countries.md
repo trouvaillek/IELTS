@@ -137,3 +137,84 @@
 15. `synchronise buying and selling with seasonal price conditions`
 
 后续复习不要只问“中文是什么意思”，还要问：**这是谁对谁做了什么？题目可能怎样改写？**
+
+## F｜10句翻译训练中新暴露的词汇与固定搭配
+
+### 第一组 1–5
+
+- `hold up A as B`：把 A 视为 / 提出 A 作为 B 的典型或有效方式。本篇 `held up social safety nets ... as valuable ways` = 把社会保障和公共福利项目视为有效办法。
+- `agricultural / agriculture shocks`：农业冲击；`shock` 在经济和学术文章里常指突发冲击，不是“股价”。
+- `compensate for`：弥补、补偿、抵消。注意整块识别，不要只凭 `compensate` 猜。
+- `stranglehold`：强力控制、牢牢控制；`have/exercise a stranglehold on/over ...` = 对……形成强势控制。它本身不等于“压价”，但在特定上下文里可能导致压价。
+- `presence`：存在；`the presence of X` = X 的存在。不要和 `present`（目前的/出席的）混淆。
+- `taking advantage of farmers’ vulnerability`：利用农民的弱势处境。
+
+### 第二组 6–10
+
+- `provide`：提供。`provide basic services` = 提供基础服务；不要误成“提升”。
+- `produce`（名词）：农产品。`get produce to markets` = 把农产品运到市场。注意和动词 `produce`（生产）区分。
+- `commodity`：商品。
+- `commodity futures market`：商品期货市场。
+- `mitigate`：缓解、减轻、降低；`mitigate risk` ≈ `reduce risk`。
+- `collective action`：集体行动。不要把 `collective` 误认成 `collect`。
+- `bargaining power`：议价能力 / 谈判能力。商业、劳动力市场和农业文章中都很常见。
+- `gain/have control over sth`：获得 / 拥有对……的控制权。这里 `over` 不是“超过”。
+- `commentator`：评论者、参与评论的人。
+- `guarantee`：保证、确保；不要和 `guard`（保卫、防守）混淆。
+- `guarantee producers a fair price`：保证生产者获得公平价格。
+
+## G｜10句关键句压缩理解
+
+1. `social safety nets / public welfare programmes → address poverty / reduce vulnerability`
+   - 公共福利与社会保障 → 缓解贫困、降低脆弱性。
+
+2. `state subsidies → fail to compensate for private traders’ stranglehold`
+   - 国家补贴 → 没有抵消私人商人的强势控制。
+
+3. `growing unpredictability of weather → greater difficulty managing risk`
+   - 天气越来越难预测 → 农民更难管理天气风险。
+
+4. `all stakeholders → work together`
+   - 多方利益相关者 → 合作。
+
+5. `intermediary purchasers → exploit vulnerability → dictate prices`
+   - 中间商 → 利用农民弱势 → 强势定价。
+
+6. `governments → provide roads/basic services → reduce farmers’ risks`
+   - 政府 → 提供道路等基础服务 → 降低风险。
+
+7. `private risk-management tools → mitigate risk`
+   - 私人风险管理工具 → 降低风险。
+
+8. `collective action → strengthen bargaining power`
+   - 集体行动 → 增强议价能力。
+
+9. `sell directly to consumers → gain control over prices`
+   - 直接卖给消费者 → 获得更大定价控制权。
+
+10. `consumers → invest by subscription → guarantee fair price / share risk`
+    - 消费者订阅投资 → 保证公平价格 / 分担风险。
+
+## H｜下一轮复习优先级
+
+### 第一优先：见过但现场调不出来
+
+- `commodity`
+- `mitigate`
+- `bargaining power`
+- `compensate for`
+- `presence`
+- `vulnerability`
+- `take advantage of`
+- `dictate prices`
+
+### 第二优先：容易词义翻偏
+
+- `provide`
+- `produce`（n. 农产品）
+- `guarantee`
+- `stranglehold`
+- `control over`
+- `collective action`
+
+复习方式：优先用“英文关键句 → 中文关系翻译”，不要只背孤立词义。每次先判断 **谁 → 做什么 → 结果**，再补词义细节。
