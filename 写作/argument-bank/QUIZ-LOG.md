@@ -6,3 +6,4 @@
 |---|---|---|---|---|---|
 
 | 2026-09-18 | ARG-001 | 论点+原因中译英 | importance of practical skills in education , modern workers need skills that surpass acadamic knowlodge | partial | 论点准确；原因意思基本对。拼写：academic, knowledge。搭配更自然：the modern workforce requires skills beyond academic knowledge / workers need skills that go beyond academic knowledge。 |
+| 2026-09-18 | ARG-001 | 例子中译英 | a report from university niujin , people who have practical skills will get secucess more earily in employee market | partial | 核心意思基本对。应为 the University of Oxford；students with hands-on experience；be more successful in the job market。拼写：successfully/success, easily；job market 不是 employee market。 |
