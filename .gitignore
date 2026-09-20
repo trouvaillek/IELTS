@@ -23,3 +23,7 @@ ielts-claude-skillsV3/**/__pycache__/
 写作/*
 !写作/language-bank/
 !写作/language-bank/**
+
+# IELTS writing submissions
+!写作/submissions/
+!写作/submissions/**
